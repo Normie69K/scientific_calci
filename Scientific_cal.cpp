@@ -74,7 +74,7 @@ int main()
         break;
     
     default:
-    cout<<"Invalid option"<<endl";
+    cout<<"Invalid option"<<endl;
         break;
     }
     }
